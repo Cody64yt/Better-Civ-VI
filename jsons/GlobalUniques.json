@@ -51,5 +51,8 @@
         "[-1 Food] from [Jungle] tiles [in all cities] <in [Great Improvement] tiles>",
         "[-1 Food, -1 Gold] from [Coast] tiles [in all cities] <in [Great Improvement] tiles>",
         "[+1 Culture] per [3] population [in all cities]"
+    ],
+    "unitUniques": [
+        "[This Unit] heals [50] HP <upon being promoted>"
     ]
 }

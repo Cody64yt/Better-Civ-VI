@@ -1,23 +1,4 @@
 [
-	{
-		"name": "Heal Instantly",
-		"uniques": [
-			"[This Unit] heals [50] HP",
-			"Doing so will consume this opportunity to choose a Promotion"
-		],
-		"unitTypes": [
-			"Anti-Cavalry",
-			"Land Melee",
-			"Light Cavalry",
-			"Heavy Cavalry",
-			"Recon",
-			"Siege",
-			"Land Ranged",
-			"Naval Melee",
-			"Naval Ranged",
-			"Naval Raider"
-		]
-	},
 	// Recon
 	{
 		"name": "Ranger",
